@@ -10,5 +10,9 @@
     background: linear-gradient(#fff, #f9ffd6);
     position: relative;
     padding: 0 8% 0 8%;
-    box-sizzing:border-box;
+    box-sizing:border-box;
+}
+.navigation{
+    display: flex;
+    align-items: center;   
 }
